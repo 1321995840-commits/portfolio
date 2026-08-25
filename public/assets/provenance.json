@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-25T00:00:00+08:00",
+  "remoteMedia": [
+    {
+      "usage": "fullscreen Hero video",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260314_131748_f2ca2a28-fed7-44c8-b9a9-bd9acdd5ec31.mp4",
+      "providedBy": "user",
+      "verifiedContentType": "video/mp4"
+    }
+  ],
+  "assets": [
+    {
+      "file": "portrait.jpg",
+      "source": "C:/Users/Administrator/Documents/ChatGPT/简历/output/html/李向东_证件照.jpg",
+      "operation": "copied and optimized for the landscape identity badge"
+    },
+    {
+      "file": "video/contact-sunset.jpg",
+      "source": "D:/steam/steamapps/workshop/content/431960/2853957093/float_by_visualadon.mp4",
+      "operation": "single still frame retained as the non-animated contact background"
+    },
+    {
+      "file": "video/contact-moonset.mp4",
+      "source": "D:/steam/steamapps/workshop/content/431960/2956215523/moonset.mp4",
+      "operation": "transcoded to a muted 1920x1080 H.264 web background; original preserved"
+    },
+    {
+      "file": "video/contact-moonset.jpg",
+      "source": "D:/steam/steamapps/workshop/content/431960/2956215523/moonset.mp4",
+      "operation": "poster frame extracted from the web background"
+    },
+    {
+      "file": "episodes/route-r1-ep016.mp4",
+      "source": "E:/漫剧/短剧成片作品集/Route Threeway To Climax/016.mp4",
+      "operation": "retained existing 720x1280 H.264 web playback copy"
+    },
+    {
+      "file": "episodes/route-r1-ep016.jpg",
+      "source": "E:/漫剧/短剧成片作品集/Route Threeway To Climax/016.mp4",
+      "operation": "retained existing poster frame"
+    },
+    {
+      "file": "episodes/route-r2-ep015.mp4",
+      "source": "E:/漫剧/短剧成片作品集/Route Threeway To Climax 2/015.mp4",
+      "operation": "transcoded to 720x1280 H.264 web playback copy; original preserved"
+    },
+    {
+      "file": "episodes/route-r2-ep015.jpg",
+      "source": "E:/漫剧/短剧成片作品集/Route Threeway To Climax 2/015.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/route-r2-ep016.mp4",
+      "source": "E:/漫剧/短剧成片作品集/Route Threeway To Climax 2/016.mp4",
+      "operation": "transcoded to 720x1280 H.264 web playback copy; original preserved"
+    },
+    {
+      "file": "episodes/route-r2-ep016.jpg",
+      "source": "E:/漫剧/短剧成片作品集/Route Threeway To Climax 2/016.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/route-r2-ep018.mp4",
+      "source": "E:/漫剧/短剧成片作品集/Route Threeway To Climax 2/018.mp4",
+      "operation": "transcoded to 720x1280 H.264 web playback copy; original preserved"
+    },
+    {
+      "file": "episodes/route-r2-ep018.jpg",
+      "source": "E:/漫剧/短剧成片作品集/Route Threeway To Climax 2/018.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/vampire-ep03.mp4",
+      "source": "E:/漫剧/短剧成片作品集/Sexting the Vampire Who Owns Me/003.mp4",
+      "operation": "transcoded to 720x1280 H.264 web playback copy; original preserved"
+    },
+    {
+      "file": "episodes/vampire-ep03.jpg",
+      "source": "E:/漫剧/短剧成片作品集/Sexting the Vampire Who Owns Me/003.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/vampire-ep05.mp4",
+      "source": "E:/漫剧/短剧成片作品集/Sexting the Vampire Who Owns Me/005.mp4",
+      "operation": "transcoded to 720x1280 H.264 web playback copy; original preserved"
+    },
+    {
+      "file": "episodes/vampire-ep05.jpg",
+      "source": "E:/漫剧/短剧成片作品集/Sexting the Vampire Who Owns Me/005.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/phoenix-ep17.mp4",
+      "source": "E:/漫剧/短剧成片作品集/The Phoenix's Second Choice/017.mp4",
+      "operation": "transcoded to 720x1280 H.264 web playback copy; original preserved"
+    },
+    {
+      "file": "episodes/phoenix-ep17.jpg",
+      "source": "E:/漫剧/短剧成片作品集/The Phoenix's Second Choice/017.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/phoenix-ep20.mp4",
+      "source": "E:/漫剧/短剧成片作品集/The Phoenix's Second Choice/020.mp4",
+      "operation": "transcoded to 720x1280 H.264 web playback copy; original preserved"
+    },
+    {
+      "file": "episodes/phoenix-ep20.jpg",
+      "source": "E:/漫剧/短剧成片作品集/The Phoenix's Second Choice/020.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/phoenix-ep21.mp4",
+      "source": "E:/漫剧/短剧成片作品集/The Phoenix's Second Choice/021.mp4",
+      "operation": "transcoded to 720x1280 H.264 web playback copy; original preserved"
+    },
+    {
+      "file": "episodes/phoenix-ep21.jpg",
+      "source": "E:/漫剧/短剧成片作品集/The Phoenix's Second Choice/021.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/route-ep16.jpg",
+      "source": "E:/漫剧/短剧成片作品集/Route Threeway To Climax/016.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/route-ep18.jpg",
+      "source": "E:/漫剧/短剧成片作品集/Route Threeway To Climax 2/018.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/route-ep28.jpg",
+      "source": "E:/漫剧/短剧成片作品集/Route Threeway To Climax/028.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/vampire-ep02.jpg",
+      "source": "E:/漫剧/短剧成片作品集/Sexting the Vampire Who Owns Me/002.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/vampire-ep04.jpg",
+      "source": "E:/漫剧/短剧成片作品集/Sexting the Vampire Who Owns Me/004.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/vampire-ep06.jpg",
+      "source": "E:/漫剧/短剧成片作品集/Sexting the Vampire Who Owns Me/006.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/intern-ep02.jpg",
+      "source": "E:/漫剧/短剧成片作品集/The Intern Accused Me of Stealing, So I Took Everything 2/002.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/intern-ep06.jpg",
+      "source": "E:/漫剧/短剧成片作品集/The Intern Accused Me of Stealing, So I Took Everything 2/006.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/intern-ep10.jpg",
+      "source": "E:/漫剧/短剧成片作品集/The Intern Accused Me of Stealing, So I Took Everything 2/010.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/phoenix-ep11.jpg",
+      "source": "E:/漫剧/短剧成片作品集/The Phoenix's Second Choice/011.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/phoenix-ep18.jpg",
+      "source": "E:/漫剧/短剧成片作品集/The Phoenix's Second Choice/018.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    },
+    {
+      "file": "episodes/phoenix-ep22.jpg",
+      "source": "E:/漫剧/短剧成片作品集/The Phoenix's Second Choice/022.mp4",
+      "operation": "poster frame extracted at 00:00:02"
+    }
+  ]
+}

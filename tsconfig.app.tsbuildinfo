@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/animatedcontent.tsx","./src/components/blurtext.tsx","./src/components/galaxy.tsx","./src/components/scrollreveal.tsx","./src/components/specularbutton.preview.tsx","./src/components/specularbutton.tsx","./src/components/ui/popover.tsx","./src/lib/utils.ts"],"version":"5.9.3"}
